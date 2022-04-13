@@ -1,3 +1,5 @@
+// Aaronel Haro COP 4520
+
 import javax.swing.*;
 import java.util.Arrays;
 import java.util.Random;
